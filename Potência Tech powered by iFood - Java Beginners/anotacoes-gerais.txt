@@ -1,1 +1,10 @@
-As anotações ficarão neste arquivo de texto.
+A linguagem JAVA é baseada em C e C++.
+
+Linguagem JAVA é fortemente tipada, orientada a objetos e compilada.
+
+O arquivo compilado de uma aplicação JAVA se chama Bytecode e,
+consegue ser executado em qualquer OS com uma JVM (JAVA Virtual Machine)
+instalada.
+
+Originalmente foi desenvolvida pela Sun Microsystems, que
+posteriormente, foi vendida para a Oracle.
