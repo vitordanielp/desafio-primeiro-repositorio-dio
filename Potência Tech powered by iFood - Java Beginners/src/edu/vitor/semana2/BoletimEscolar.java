@@ -1,10 +1,11 @@
-package edu.vitor.semana1;
+package edu.vitor.semana2;
 
 /**
  * BoletimEscolar
  * Essa classe foi utilizada como exemplo
  * para demonstrações de de identação de código
  */
+
 public class BoletimEscolar {
 
     public static void main(String[] args) {

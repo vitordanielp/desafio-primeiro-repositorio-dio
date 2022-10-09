@@ -20,19 +20,19 @@ ________________________________________________________________________________
  Os métodos também devem ser nomeados usando Camel Case, além de estarem no infinitivo (ex: somar, lerTexto);
 ______________________________________________________________________________________________________
 
- Variáveis escritas em UPPERCASE nunca devem mudar seu valor.
+ Constantes são escritas em UPPERCASE.
 
  Exemplo:
 
 String BR = "Brasil";
 BR = "Brazil"; // Esta alteração não deve ser realizada.
 
- Para essas variávies, a regra de nomenclatura é utilizar a separação de palavras
+ Para constantes, a regra de nomenclatura é utilizar a separação de palavras
 com underline (ex: ESTADOS_BRASILEIROS).
 
 
-* Dica: usar expressão "final".
-
+* Dica: para declarar constantes, usamos a expressão "final".
+ 
  Exemplo:
 
 final String BR = "Brasil";

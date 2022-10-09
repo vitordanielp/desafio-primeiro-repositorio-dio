@@ -1,4 +1,4 @@
-package edu.vitor.semana1;
+package edu.vitor.semana2;
 
 public class MinhaClasse {
     public static void main(String[] args) {
