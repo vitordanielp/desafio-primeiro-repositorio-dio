@@ -1,5 +1,9 @@
 package edu.vitor.semana2;
 
+/* 
+ * Alguns tipos de dados
+ */
+
 public class TiposDados {
     public static void main(String[] args) {
         byte idade = 123; // Geralmente é utilizado int
