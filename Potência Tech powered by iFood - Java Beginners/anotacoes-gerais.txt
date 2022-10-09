@@ -8,3 +8,32 @@ instalada.
 
 Originalmente foi desenvolvida pela Sun Microsystems, que
 posteriormente, foi vendida para a Oracle.
+
+______________________________________________________________________________________________________
+
+
+
+>>> SINTAXE JAVA <<<
+
+ As classes devem ter o mesmo nome de seus arquivos, sempre utilizando Pascal Case (ex: MinhaClasse).
+ Já as variáveis, devem ser nomeadas usando Camel Case (ex: minhaVariavel).
+ Os métodos também devem ser nomeados usando Camel Case, além de estarem no infinitivo (ex: somar, lerTexto);
+______________________________________________________________________________________________________
+
+ Variáveis escritas em UPPERCASE nunca devem mudar seu valor.
+
+ Exemplo:
+
+String BR = "Brasil";
+BR = "Brazil"; // Esta alteração não deve ser realizada.
+
+ Para essas variávies, a regra de nomenclatura é utilizar a separação de palavras
+com underline (ex: ESTADOS_BRASILEIROS).
+
+
+* Dica: usar expressão "final".
+
+ Exemplo:
+
+final String BR = "Brasil";
+______________________________________________________________________________________________________
